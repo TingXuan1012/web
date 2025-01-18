@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #333;
+    line-height: 1.6;
+  }
+  
+  header {
+    background: #69b2dc;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    font-size: 35px;
+  }
+  
+  .slider img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .products, .contact, .certifications {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .product, .certification {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+  }
+  
+  .product img, .certification img {
+    width: 150px;
+    height: auto;
+    border-radius: 8px;
+  }
+  
+  .line-button {
+    display: inline-block;
+    background: #00c300;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  .line-button:hover {
+    background: #00a300;
+  }
+  
+  footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
